@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567369720179",
+    "project_id": "beautiful-login-mqx",
+    "storage_bucket": "beautiful-login-mqx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567369720179:android:e1005ab536f95b170b2506",
+        "android_client_info": {
+          "package_name": "com.merqurex.beautifullogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OhSUkdSfkZyZNXMb-pnK8fBT6pgjKLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
